@@ -37,4 +37,5 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
