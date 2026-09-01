@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
