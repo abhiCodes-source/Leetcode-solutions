@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
