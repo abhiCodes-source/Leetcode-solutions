@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [3870-count-commas-in-range](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -84,8 +85,10 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
