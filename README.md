@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -92,4 +93,8 @@
 | ------- |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
