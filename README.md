@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0237-delete-node-in-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
