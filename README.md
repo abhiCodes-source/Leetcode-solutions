@@ -73,6 +73,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
