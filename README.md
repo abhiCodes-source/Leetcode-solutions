@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -100,6 +101,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
