@@ -14,19 +14,17 @@ class Solution {
                 map.put(ch,1);
             }
         }
-        for(int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            if(!map.containsKey(ch)) {
-                return false;
+        HashMap<Character,Integer> hap=new HashMap<>();
+        for(int i=0;i<t.length();i++){
+            char ch=t.charAt(i);
+            if(hap.containsKey(ch)){
+                int fre=hap.get(ch);
+                hap.put(ch,fre+1);
             }
-            int fre = map.get(ch);
-            map.put(ch, fre - 1);
-        }
-        for(char ch : map.keySet()) {
-            if(map.get(ch) != 0) {
-                return false;
+            else{
+                hap.put(ch,1);
             }
         }
-        return true;
+        return map.equals(hap);
     }
 }
