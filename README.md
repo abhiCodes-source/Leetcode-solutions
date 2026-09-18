@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0620-not-boring-movies) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Bit Manipulation
