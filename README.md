@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -96,6 +97,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
