@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -25,6 +26,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -49,6 +51,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1539-kth-missing-positive-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
@@ -133,6 +136,7 @@
 | [0234-palindrome-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -151,6 +155,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
