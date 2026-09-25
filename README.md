@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
