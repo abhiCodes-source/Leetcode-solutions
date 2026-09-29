@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -180,6 +181,7 @@
 | [0205-isomorphic-strings](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -226,4 +228,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
