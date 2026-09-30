@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -188,6 +190,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
