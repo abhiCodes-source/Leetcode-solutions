@@ -63,6 +63,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -125,6 +126,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
