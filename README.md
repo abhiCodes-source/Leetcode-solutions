@@ -136,6 +136,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
