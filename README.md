@@ -18,6 +18,7 @@
 | [1539-kth-missing-positive-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2239-find-closest-number-to-zero](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -257,4 +258,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
