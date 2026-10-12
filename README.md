@@ -20,6 +20,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -35,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0445-add-two-numbers-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3870-count-commas-in-range](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -103,6 +106,7 @@
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
