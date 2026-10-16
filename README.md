@@ -79,6 +79,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
