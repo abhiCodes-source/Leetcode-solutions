@@ -210,6 +210,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -238,6 +239,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
