@@ -17,6 +17,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -244,6 +245,7 @@
 | [0020-valid-parentheses](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
