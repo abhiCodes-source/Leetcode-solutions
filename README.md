@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
