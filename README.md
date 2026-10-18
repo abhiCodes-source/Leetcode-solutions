@@ -17,6 +17,7 @@
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -44,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -256,6 +258,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
@@ -322,5 +325,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
