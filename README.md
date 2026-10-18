@@ -17,6 +17,7 @@
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -120,6 +122,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -152,6 +155,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -279,6 +283,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
