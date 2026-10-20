@@ -30,6 +30,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -51,6 +52,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -329,6 +331,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bracket Sequences
 |  |
 | ------- |
