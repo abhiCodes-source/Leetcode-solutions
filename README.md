@@ -22,6 +22,7 @@
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -57,6 +58,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0771-jewels-and-stones](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -184,6 +186,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
