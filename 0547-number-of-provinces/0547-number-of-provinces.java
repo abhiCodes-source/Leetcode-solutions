@@ -1,7 +1,7 @@
 class Solution {
     public void dfs(int i,boolean []visited,int [][]isConnected){
         visited[i]=true;
-        for(int j=0;j<isConnected.length;j++){
+        for(int j=0;j<isConnected[0].length;j++){
             if(isConnected[i][j]==1 && visited[j]==false){
                 dfs(j,visited,isConnected);
             }
