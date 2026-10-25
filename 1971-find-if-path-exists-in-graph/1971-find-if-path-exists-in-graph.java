@@ -1,20 +1,13 @@
 class Solution {
-    public void bfs(int i,List<List<Integer>> adj,boolean vis[]){
-        Queue<Integer>q=new LinkedList<>();
-        q.add(i);
-        while(!q.isEmpty()){
-            int front=q.remove();
-            for(int j=0;j<adj.get(front).size();j++){
-                if(!vis[adj.get(front).get(j)]){
-                    vis[adj.get(front).get(j)]=true;
-                    q.add(adj.get(front).get(j));
-                }
-            }
+    public void dfs(int i,boolean[]vis,List<List<Integer>>adj){
+        vis[i]=true;
+        for(int j=0;j<adj.get(i).size();j++){
+            if(!vis[adj.get(i).get(j)]) dfs(adj.get(i).get(j),vis,adj);
         }
     }
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        List<List<Integer>> adj=new ArrayList<>();
-        for(int i=0;i<n;i++){
+        List<List<Integer>>adj=new ArrayList<>();
+        for(int k=0;k<n;k++){
             List<Integer>arr=new ArrayList<>();
             adj.add(arr);
         }
@@ -24,9 +17,11 @@ class Solution {
             adj.get(a).add(b);
             adj.get(b).add(a);
         }
-        boolean vis[]=new boolean[n];
-        vis[source]=true;
-        bfs(source,adj,vis);
-        return vis[destination];
+        boolean []vis=new boolean[n];
+        dfs(source,vis,adj);
+        for(int l=0;l<n;l++){
+            if(vis[destination]==false) return false;
+        }
+        return true;
     }
 }
