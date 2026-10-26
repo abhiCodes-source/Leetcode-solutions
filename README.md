@@ -59,6 +59,7 @@
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0567-permutation-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -241,6 +242,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -260,6 +262,7 @@
 | [0242-valid-anagram](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -349,6 +352,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bracket Sequences
