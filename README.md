@@ -37,6 +37,7 @@
 | [2239-find-closest-number-to-zero](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2815-max-pair-sum-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -64,6 +65,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2815-max-pair-sum-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
