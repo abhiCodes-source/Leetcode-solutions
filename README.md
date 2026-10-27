@@ -266,6 +266,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1446-consecutive-characters](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
