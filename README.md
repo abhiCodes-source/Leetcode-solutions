@@ -35,6 +35,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2239-find-closest-number-to-zero](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
@@ -64,6 +65,7 @@
 | [0771-jewels-and-stones](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -88,6 +90,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -187,6 +191,7 @@
 | [0841-keys-and-rooms](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -330,6 +335,7 @@
 | [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## DP on Trees
 |  |
 | ------- |
@@ -349,6 +355,7 @@
 | [0547-number-of-provinces](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Enumeration
 |  |
 | ------- |
