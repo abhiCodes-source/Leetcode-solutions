@@ -21,6 +21,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -60,6 +61,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -147,6 +149,7 @@
 | [0202-happy-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
@@ -338,6 +341,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Union-Find
 |  |
 | ------- |
@@ -419,4 +423,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
