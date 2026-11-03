@@ -44,6 +44,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -155,6 +156,7 @@
 | [0728-self-dividing-numbers](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
