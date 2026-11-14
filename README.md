@@ -44,6 +44,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -211,6 +212,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Database
 |  |
@@ -388,6 +390,7 @@
 | [0567-permutation-in-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
