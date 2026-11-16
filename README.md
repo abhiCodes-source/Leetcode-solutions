@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -65,6 +66,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/abhiCodes-source/Leetcode-solutions/tree/master/0525-contiguous-array) |
